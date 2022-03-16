@@ -1,0 +1,31 @@
+*{
+padding:0;
+margin:0;
+scroll-behaviour:smooth;
+}
+.bg-nav{
+    background: #536976;
+    background: -webkit-linear-gradient(to right, #292E49, #536976);
+    background: linear-gradient(to right, #292E49, #536976);
+    color:white
+}
+.bg-nav a{
+padding-left:10px;
+color:white;
+text-decoration:none;
+}
+.center{
+height:80vh;
+width:100%;
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+.plr-5{
+padding-left:5px;
+padding-right:5px}
+
+.form{
+    border-radius:10px;
+}
